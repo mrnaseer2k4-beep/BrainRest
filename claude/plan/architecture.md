@@ -1,5 +1,5 @@
 # Architecture
-Status: Draft (stack is a proposal, see decisions.md D-002)
+Status: Draft (stack pending, see decisions.md D-002)
 
 ## Proposed stack
 - **Android:** Kotlin, Jetpack Compose UI, Room (local database), WorkManager (daily rollups), Hilt (DI).
